@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 <br ></br>
 
 
-![](/img/Screenshot%202022-09-21%20223735.png)
+![](/img/Screenshot%202022-09-21%20230719.png)
 
 <br ></br>
 
