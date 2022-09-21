@@ -23,4 +23,16 @@ Projeyi klonladıktan sonra Visual Studio Code programında açtık.
     Linux için:
     cd kodluyoruzilkrepo
     code.
+<br ></br>
 
+# Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+<br ></br>
+
+[Patika.dev](https://www.patika.dev/tr)
